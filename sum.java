@@ -4,5 +4,6 @@ class Sum {
         int b = 44;
 
         System.out.println(a + b); //this is added through github.com
+        //dummy functionality added.
     }
 }
